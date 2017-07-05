@@ -1,0 +1,11 @@
+{
+    "name": "wuwx/laravel-plus-routing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Wu Weixin",
+            "email": "wuweixin@gmail.com"
+        }
+    ],
+    "require": {}
+}
