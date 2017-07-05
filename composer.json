@@ -7,5 +7,11 @@
             "email": "wuweixin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wuwx\\LaravelPlusRouting\\": "src/"
+        }
+    },
+    "version": "0.0.1"
 }
